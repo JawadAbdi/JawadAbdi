@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JawadAbdi
-- 👀 I’m interested in android/ios development
-- 🌱 I’m currently learning frontend programming
+- 👀 I’m interested in data science
+- 🌱 I’m currently learning ml, dl
 - 📫 How to reach me Whatsapp:- +918218576314
                      Instagram:- Jawad__Abdi
 
